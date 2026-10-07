@@ -1,0 +1,306 @@
+[
+ {
+  "id": "ai-engineer",
+  "name": "AI Engineer",
+  "description": "Builds and ships AI-powered applications, integrating models, retrieval and APIs into products.",
+  "skills": {
+   "Python": 3,
+   "Machine Learning": 2,
+   "Deep Learning": 2,
+   "NLP": 2,
+   "LLMs": 2,
+   "RAG": 2,
+   "Vector Databases": 2,
+   "APIs": 2,
+   "Model Deployment": 2,
+   "Cloud": 2
+  },
+  "tags": [
+   "ai",
+   "llm",
+   "software",
+   "automation"
+  ],
+  "projects": [
+   "RAG chatbot over your own documents",
+   "Fine-tune a small transformer classifier"
+  ],
+  "certifications": [
+   "AWS Cloud Practitioner"
+  ],
+  "related": [
+   "ml-engineer",
+   "generative-ai-engineer",
+   "nlp-engineer"
+  ]
+ },
+ {
+  "id": "ml-engineer",
+  "name": "Machine Learning Engineer",
+  "description": "Trains, evaluates and productionises ML models at scale.",
+  "skills": {
+   "Python": 3,
+   "Machine Learning": 3,
+   "Deep Learning": 2,
+   "Statistics": 2,
+   "Model Deployment": 3,
+   "Docker": 2,
+   "Cloud": 2,
+   "SQL": 2
+  },
+  "tags": [
+   "ai",
+   "ml",
+   "engineering",
+   "data"
+  ],
+  "projects": [
+   "End-to-end ML pipeline with a deployed prediction API",
+   "Kaggle competition write-up"
+  ],
+  "certifications": [
+   "AWS Certified Machine Learning - Specialty"
+  ],
+  "related": [
+   "ai-engineer",
+   "data-scientist"
+  ]
+ },
+ {
+  "id": "data-scientist",
+  "name": "Data Scientist",
+  "description": "Extracts insights and builds predictive models from data.",
+  "skills": {
+   "Python": 3,
+   "Statistics": 3,
+   "Machine Learning": 2,
+   "SQL": 2,
+   "Data Visualization": 2
+  },
+  "tags": [
+   "data",
+   "statistics",
+   "research",
+   "analytics"
+  ],
+  "projects": [
+   "Predictive model on a public dataset with a written report",
+   "A/B test analysis"
+  ],
+  "certifications": [
+   "Google Professional Data Engineer (optional)"
+  ],
+  "related": [
+   "data-analyst",
+   "ml-engineer"
+  ]
+ },
+ {
+  "id": "data-analyst",
+  "name": "Data Analyst",
+  "description": "Turns data into dashboards and decisions for business teams.",
+  "skills": {
+   "SQL": 3,
+   "Data Visualization": 3,
+   "Statistics": 2,
+   "Python": 2
+  },
+  "tags": [
+   "data",
+   "business",
+   "analytics"
+  ],
+  "projects": [
+   "Interactive sales dashboard",
+   "Exploratory analysis of a public dataset"
+  ],
+  "certifications": [
+   "Microsoft PL-300 Power BI"
+  ],
+  "related": [
+   "data-scientist"
+  ]
+ },
+ {
+  "id": "ai-product-manager",
+  "name": "AI Product Manager",
+  "description": "Defines AI product strategy, balancing user needs, feasibility and risk.",
+  "skills": {
+   "Product Management": 3,
+   "Machine Learning": 1,
+   "LLMs": 1,
+   "Data Visualization": 1,
+   "UX Design": 2,
+   "Statistics": 1
+  },
+  "tags": [
+   "product",
+   "business",
+   "strategy",
+   "ai"
+  ],
+  "projects": [
+   "Write a PRD for an AI feature",
+   "Prototype and user-test an AI assistant"
+  ],
+  "certifications": [
+   "Pragmatic Institute (optional)"
+  ],
+  "related": [
+   "ux-designer",
+   "ai-engineer"
+  ]
+ },
+ {
+  "id": "ux-designer",
+  "name": "UX/Product Designer",
+  "description": "Designs usable, accessible product experiences from research to prototype.",
+  "skills": {
+   "UX Design": 3,
+   "Product Management": 1,
+   "JavaScript": 1,
+   "Data Visualization": 1
+  },
+  "tags": [
+   "design",
+   "creative",
+   "product",
+   "research"
+  ],
+  "projects": [
+   "Redesign an existing app with a case study",
+   "Usability test with 5 users"
+  ],
+  "certifications": [
+   "Google UX Design Certificate"
+  ],
+  "related": [
+   "ai-product-manager",
+   "full-stack-developer"
+  ]
+ },
+ {
+  "id": "full-stack-developer",
+  "name": "Full Stack Developer",
+  "description": "Builds complete web applications across frontend, backend and database.",
+  "skills": {
+   "JavaScript": 3,
+   "React": 2,
+   "APIs": 3,
+   "SQL": 2,
+   "Python": 2,
+   "Git": 2,
+   "Docker": 1
+  },
+  "tags": [
+   "web",
+   "software",
+   "engineering",
+   "product"
+  ],
+  "projects": [
+   "Full-stack app with auth and a database",
+   "Deploy a containerised app"
+  ],
+  "certifications": [
+   "Meta Front-End (optional)"
+  ],
+  "related": [
+   "cloud-engineer",
+   "ai-engineer"
+  ]
+ },
+ {
+  "id": "cloud-engineer",
+  "name": "Cloud Engineer",
+  "description": "Designs, deploys and operates scalable cloud infrastructure.",
+  "skills": {
+   "Cloud": 3,
+   "Docker": 3,
+   "Python": 2,
+   "Git": 2,
+   "APIs": 2
+  },
+  "tags": [
+   "cloud",
+   "infrastructure",
+   "devops",
+   "engineering"
+  ],
+  "projects": [
+   "Deploy a web app on AWS with CI/CD",
+   "Infrastructure as code project"
+  ],
+  "certifications": [
+   "AWS Cloud Practitioner",
+   "AWS Solutions Architect Associate"
+  ],
+  "related": [
+   "full-stack-developer",
+   "ml-engineer"
+  ]
+ },
+ {
+  "id": "nlp-engineer",
+  "name": "NLP Engineer",
+  "description": "Builds systems that understand and generate human language.",
+  "skills": {
+   "Python": 3,
+   "NLP": 3,
+   "Deep Learning": 3,
+   "Machine Learning": 2,
+   "LLMs": 2,
+   "Statistics": 2
+  },
+  "tags": [
+   "language",
+   "ai",
+   "research",
+   "linguistics"
+  ],
+  "projects": [
+   "Sentiment or intent classifier",
+   "Named-entity recognition pipeline"
+  ],
+  "certifications": [
+   "Hugging Face course completion"
+  ],
+  "related": [
+   "ai-engineer",
+   "generative-ai-engineer"
+  ]
+ },
+ {
+  "id": "generative-ai-engineer",
+  "name": "Generative AI Engineer",
+  "description": "Builds LLM applications: prompting, RAG, agents, evaluation and guardrails.",
+  "skills": {
+   "Python": 3,
+   "LLMs": 3,
+   "RAG": 3,
+   "Vector Databases": 2,
+   "APIs": 2,
+   "NLP": 2,
+   "Deep Learning": 1,
+   "Cloud": 1
+  },
+  "tags": [
+   "ai",
+   "llm",
+   "generative",
+   "creative",
+   "software"
+  ],
+  "projects": [
+   "RAG assistant with citations",
+   "Tool-using agent with evaluation"
+  ],
+  "certifications": [
+   "Vendor LLM/cloud AI certificates"
+  ],
+  "related": [
+   "ai-engineer",
+   "nlp-engineer"
+  ]
+ }
+]

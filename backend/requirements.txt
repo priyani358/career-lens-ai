@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+anthropic
+openai
+chromadb
+python-dotenv
+bcrypt
+PyJWT
+pydantic>=2

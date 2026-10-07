@@ -1,0 +1,18 @@
+[
+{"title":"Machine Learning Specialization","type":"Course","url":"https://www.coursera.org/specializations/machine-learning-introduction","skill":"Machine Learning","difficulty":"Beginner","duration":"3 months"},
+{"title":"Practical Deep Learning (fast.ai)","type":"Course","url":"https://course.fast.ai","skill":"Deep Learning","difficulty":"Intermediate","duration":"2 months"},
+{"title":"Hugging Face LLM Course","type":"Course","url":"https://huggingface.co/learn/llm-course","skill":"NLP","difficulty":"Intermediate","duration":"1 month"},
+{"title":"Claude API Documentation","type":"Documentation","url":"https://docs.claude.com","skill":"LLMs","difficulty":"Beginner","duration":"1 week"},
+{"title":"PyTorch Tutorials","type":"Documentation","url":"https://pytorch.org/tutorials","skill":"Deep Learning","difficulty":"Intermediate","duration":"1 month"},
+{"title":"Kaggle Learn","type":"Practice","url":"https://www.kaggle.com/learn","skill":"Python","difficulty":"Beginner","duration":"2 weeks"},
+{"title":"Kaggle Competitions","type":"Projects","url":"https://www.kaggle.com/competitions","skill":"Machine Learning","difficulty":"Intermediate","duration":"Ongoing"},
+{"title":"Chroma Documentation","type":"Documentation","url":"https://docs.trychroma.com","skill":"Vector Databases","difficulty":"Beginner","duration":"1 week"},
+{"title":"FastAPI Documentation","type":"Documentation","url":"https://fastapi.tiangolo.com","skill":"APIs","difficulty":"Beginner","duration":"2 weeks"},
+{"title":"AWS Certified Cloud Practitioner","type":"Certification","url":"https://aws.amazon.com/certification/certified-cloud-practitioner/","skill":"Cloud","difficulty":"Beginner","duration":"1 month"},
+{"title":"Python Official Tutorial","type":"Documentation","url":"https://docs.python.org/3/tutorial/","skill":"Python","difficulty":"Beginner","duration":"2 weeks"},
+{"title":"MDN Web Docs","type":"Documentation","url":"https://developer.mozilla.org","skill":"JavaScript","difficulty":"Beginner","duration":"1 month"},
+{"title":"React Learn","type":"Documentation","url":"https://react.dev/learn","skill":"React","difficulty":"Beginner","duration":"3 weeks"},
+{"title":"Khan Academy Statistics","type":"Course","url":"https://www.khanacademy.org/math/statistics-probability","skill":"Statistics","difficulty":"Beginner","duration":"1 month"},
+{"title":"Docker Get Started","type":"Documentation","url":"https://docs.docker.com/get-started/","skill":"Docker","difficulty":"Beginner","duration":"1 week"},
+{"title":"Nielsen Norman Group Articles","type":"Books/resources","url":"https://www.nngroup.com/articles/","skill":"UX Design","difficulty":"Beginner","duration":"Ongoing"}
+]
